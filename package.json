@@ -1,0 +1,25 @@
+{
+  "name": "xmlhttprequest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xhrPractice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADLT1304/XMLHttpRequest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADLT1304/XMLHttpRequest/issues"
+  },
+  "homepage": "https://github.com/ADLT1304/XMLHttpRequest#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "xhr2": "^0.2.1"
+  }
+}
